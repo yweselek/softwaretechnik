@@ -50,7 +50,7 @@ public class Main {
         };
         System.out.println(courseManager.getEntityByCriterion(findCourseByFirstCourseId));
 
-        System.out.println("Test");
+
 
     }
 }

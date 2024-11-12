@@ -3,9 +3,9 @@ import java.util.ArrayList;
 
 
 public class Course {
-    private String name;
-    private String courseId;
-    private ArrayList<ExerciseGroup> exerciseGroups = new ArrayList<>();
+    protected String name;
+    protected String courseId;
+    protected ArrayList<ExerciseGroup> exerciseGroups = new ArrayList<>();
 
     public Course(String name, String courseId) {
         this.name = name;

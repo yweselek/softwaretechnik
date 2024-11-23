@@ -8,8 +8,11 @@ Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
 | ----------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Homework 01 | 4/4      | 6/6      | 3.75/5   | 4.25/5   | -        | 18/20    |
 | Homework 02 | 4.25/4.5 | 4/4.5    | 5/6      | 5/5      | -        | 18.25/20 |
+| Homework 04 | 4.5/5   | 5/5       | 4.5/7    | 2.5/3    | -        | 16.5/20  |
 
 ### Erläuterungen zur Bewertung
+
+HW04: Siehe Bemerkungen im Ordner *Correction Files*.
 
 HW02:
 - Ex. 1: Der Adjustment-Branch führt eigentlich in eine Schleife, die wieder vor den (ersten und dann einzigen) Fork zurückführt.

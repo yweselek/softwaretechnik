@@ -2,6 +2,8 @@
 
 Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
 
+Name: Marc Rennefort Matrikelnummer: 7421290
+
 # Grading
 
 | Sheet       | Ex. 1    | Ex. 2    | Ex. 3    | Ex. 4    | Ex. 5    | Sum      |

@@ -3,6 +3,8 @@
 Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
 
 Name: Marc Rennefort Matrikelnummer: 7421290
+Name: Daniel Schnicke Vaz Matrikelnummer: 7424816
+Name: Yves-Pierre Weselek Matrikelnummer: 7418442
 
 # Grading
 

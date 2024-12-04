@@ -71,7 +71,7 @@ public class StudentManagerTest {
 
     @Test
     public void testGenerateStudentDistribution_CourseNotFound() {
-        when(courseMock.getId()).thenReturn("Object-Oriented Software Engineering");;
+        when(courseMock.getId()).thenReturn("Object-Oriented Software Engineering");
 
         assertThrows(IllegalArgumentException.class, () -> studentManager.generateStudentDistribution("Software Engineering"));
     }

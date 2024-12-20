@@ -12,10 +12,11 @@ Name: Yves-Pierre Weselek Matrikelnummer: 7418442
 | Homework 02 | 4.25/4.5 | 4/4.5    | 5/6      | 5/5      | -        | 18.25/20 |
 | Homework 03 | 7.5/8    | 5/5.5    | 6.25/6.5 | -        | -        | 18.75/20 |
 | Homework 04 | 4.5/5    | 5/5      | 4.5/7    | 2.5/3    | -        | 16.5/20  |
+| Homework 05 | 5/5      | 6.5/7    | 7/8      | -        | -        | 18.5/20  |
 
 ### Erläuterungen zur Bewertung
 
-HW04: Siehe Bemerkungen im Ordner *Correction Files*.
+HW04, HW05: Siehe Bemerkungen im Ordner *Correction Files*.
 
 HW03:
 - Ex. 1 a): Siehe Bemerkungen im Ordner *Correction Files*.

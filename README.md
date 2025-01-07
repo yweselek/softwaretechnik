@@ -13,8 +13,13 @@ Name: Yves-Pierre Weselek Matrikelnummer: 7418442
 | Homework 03 | 7.5/8    | 5/5.5    | 6.25/6.5 | -        | -        | 18.75/20 |
 | Homework 04 | 4.5/5    | 5/5      | 4.5/7    | 2.5/3    | -        | 16.5/20  |
 | Homework 05 | 5/5      | 6.5/7    | 7/8      | -        | -        | 18.5/20  |
+| Homework 06 | 7.5/8    | 7/8      | 4/4      | -        | -        | 18.5/20  |
 
 ### Erläuterungen zur Bewertung
+
+HW06:
+- Ex. 1: Auch die weiteren Tests hätten mit @ParameterizedTest zusammengefasst werden können, indem man das erwartete Ergebnis ebenfalls als Eingabeparameter an die Testmethode übergibt \[-0.5p\].
+- Ex. 2 a): Fehlende Mocks für die Liste courses und die Methode stream(), die in generateStudentDistribution() aufgerufen wird \[-1p\]. Das tatsächliche Course-Objekt in Zeile 43 sollte hier nicht mehr auftauchen.
 
 HW04, HW05: Siehe Bemerkungen im Ordner *Correction Files*.
 

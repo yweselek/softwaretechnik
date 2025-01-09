@@ -14,8 +14,12 @@ Name: Yves-Pierre Weselek Matrikelnummer: 7418442
 | Homework 04 | 4.5/5    | 5/5      | 4.5/7    | 2.5/3    | -        | 16.5/20  |
 | Homework 05 | 5/5      | 6.5/7    | 7/8      | -        | -        | 18.5/20  |
 | Homework 06 | 7.5/8    | 7/8      | 4/4      | -        | -        | 18.5/20  |
+| Homework 07 | 4/4      | 4/4      | 7/8      | 4/4      | -        | 19/20    |
 
 ### Erläuterungen zur Bewertung
+
+HW07:
+- Ex. 3: Die @Autowired-Annotation sollte besser an einem Konstruktor und nicht direkt am StudentRepository-Attribut stehen \[-1p\].
 
 HW06:
 - Ex. 1: Auch die weiteren Tests hätten mit @ParameterizedTest zusammengefasst werden können, indem man das erwartete Ergebnis ebenfalls als Eingabeparameter an die Testmethode übergibt \[-0.5p\].

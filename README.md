@@ -15,8 +15,13 @@ Name: Yves-Pierre Weselek Matrikelnummer: 7418442
 | Homework 05 | 5/5      | 6.5/7    | 7/8      | -        | -        | 18.5/20  |
 | Homework 06 | 7.5/8    | 7/8      | 4/4      | -        | -        | 18.5/20  |
 | Homework 07 | 4/4      | 4/4      | 7/8      | 4/4      | -        | 19/20    |
+| Homework 08 | -        | -        | -        | -        | -        | Skipped  |
+| Homework 09 | 4/4      | 8/8      | 3/8      | -        | -        | 15/20    |
 
 ### Erläuterungen zur Bewertung
+
+HW09:
+- Ex. 3: Aus welchem Reporitory stammt der Screenshot? In eurem Repository ist nämlich keine CI/CD pipeline in GitHub Actions angelegt. +2p für die main.yml Datei und weitere +1p für die darin stehende Verwendung von JaCoCo. 
 
 HW07:
 - Ex. 3: Die @Autowired-Annotation sollte besser an einem Konstruktor und nicht direkt am StudentRepository-Attribut stehen \[-1p\].

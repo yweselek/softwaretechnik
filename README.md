@@ -17,8 +17,13 @@ Name: Yves-Pierre Weselek Matrikelnummer: 7418442
 | Homework 07 | 4/4      | 4/4      | 7/8      | 4/4      | -        | 19/20    |
 | Homework 08 | -        | -        | -        | -        | -        | Skipped  |
 | Homework 09 | 4/4      | 8/8      | 3/8      | -        | -        | 15/20    |
+| Homework 10 | 3/3      | 4.5/5    | 12/12    | -        | -        | 19.5/20  |
 
 ### Erläuterungen zur Bewertung
+
+HW10:
+- Ex. 2: Vermutlicher kleiner Verständnisfehler: Die 4 unbearbeiteten Issues sollten in dem Sprint auch nicht bearbeitet werden, sonst wären sie im Sprint Backlog und nicht im Product Backlog gewesen \[-0.5p\].
+
 
 HW09:
 - Ex. 3: Aus welchem Reporitory stammt der Screenshot? In eurem Repository ist nämlich keine CI/CD pipeline in GitHub Actions angelegt. +2p für die main.yml Datei und weitere +1p für die darin stehende Verwendung von JaCoCo. 
